@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0993A3055F6E1B25898B2D1ADD02C8F2C33D548C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3060BC2AA7B36AE1B5AA711BA9FBF0B852495624" : 9223372036854775807,
+    "0993A3055F6E1B25898B2D1ADD02C8F2C33D548C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "49117C5C-8555-492A-9240-B0B83E881E8B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3060BC2AA7B36AE1B5AA711BA9FBF0B852495624" : "LoginOps\/",
+    "0993A3055F6E1B25898B2D1ADD02C8F2C33D548C" : "LoginOperation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LoginOperation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LoginOperation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sravankumarp\/LoginOperation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0993A3055F6E1B25898B2D1ADD02C8F2C33D548C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sravankumarp\/CocoaPodsSupport.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3060BC2AA7B36AE1B5AA711BA9FBF0B852495624"
+    }
+  ]
+}
